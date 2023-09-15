@@ -1,0 +1,10 @@
+The Python package requirements needed to run this program are as follows:
+
+- pandas
+- numpy
+- scikit-learn (sklearn)
+- tensorflow
+- matplotlib
+- seaborn
+
+You can include these package names in a requirements.txt file to ensure that all the required packages are installed.
